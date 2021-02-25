@@ -2,6 +2,15 @@
 
 An expense tracker application with basic list of transaction, a custom chart and dialog with date picker.
 
+## Output
+<hr/>
+
+[![1.png](https://i.postimg.cc/NMdzxd4c/1.png)](https://postimg.cc/XGyLjcmH)
+
+[![2.png](https://i.postimg.cc/mkqpvhJp/2.png)](https://postimg.cc/dZ29dQqG)
+
+[![3.png](https://i.postimg.cc/fykgqY20/3.png)](https://postimg.cc/ZvtcCvhT)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
