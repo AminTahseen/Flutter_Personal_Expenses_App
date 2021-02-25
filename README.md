@@ -1,6 +1,6 @@
 # Expense_tracker
 
-An expense tracker application with basic list of transaction, a custom chart and dialog with date picker.
+An expense tracker application with basic list of transaction, a custom chart and dialog with date picker. The app works on hardcoated data only
 
 ## Output
 <hr/>
