@@ -1,6 +1,6 @@
-# expense_tracker
+# Expense_tracker
 
-A new Flutter project.
+An expense tracker application with basic list of transaction, a custom chart and dialog with date picker.
 
 ## Getting Started
 
